@@ -173,100 +173,100 @@ footer {
   }
 }
 
-#cards > .card:nth-child(1) {
+#cards > .card[data-number="1"] {
   background-color: #6f98a8;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(1) {
+  #cards > .card[data-number="1"] {
     background-color: #efefef;
     border-left: 5px solid #6f98a8;
   }
 }
 
-#cards > .card:nth-child(2) {
+#cards > .card[data-number="2"] {
   background-color: #2b8ead;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(2) {
+  #cards > .card[data-number="2"] {
     background-color: #efefef;
     border-left: 5px solid #2b8ead;
   }
 }
 
-#cards > .card:nth-child(3) {
+#cards > .card[data-number="3"] {
   background-color: #2f454e;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(3) {
+  #cards > .card[data-number="3"] {
     background-color: #efefef;
     border-left: 5px solid #2f454e;
   }
 }
 
-#cards > .card:nth-child(4) {
+#cards > .card[data-number="4"] {
   background-color: #2b8ead;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(4) {
+  #cards > .card[data-number="4"] {
     background-color: #efefef;
     border-left: 5px solid #2b8ead;
   }
 }
 
-#cards > .card:nth-child(5) {
+#cards > .card[data-number="5"] {
   background-color: #2f454e;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(5) {
+  #cards > .card[data-number="5"] {
     background-color: #efefef;
     border-left: 5px solid #2f454e;
   }
 }
 
-#cards > .card:nth-child(6) {
+#cards > .card[data-number="6"] {
   background-color: #bfbfbf;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(6) {
+  #cards > .card[data-number="6"] {
     background-color: #efefef;
     border-left: 5px solid #bfbfbf;
   }
 }
 
-#cards > .card:nth-child(7) {
+#cards > .card[data-number="7"] {
   background-color: #bfbfbf;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(7) {
+  #cards > .card[data-number="7"] {
     background-color: #efefef;
     border-left: 5px solid #bfbfbf;
   }
 }
 
-#cards > .card:nth-child(8) {
+#cards > .card[data-number="8"] {
   background-color: #6f98a8;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(8) {
+  #cards > .card[data-number="8"] {
     background-color: #efefef;
     border-left: 5px solid #6f98a8;
   }
 }
 
-#cards > .card:nth-child(9) {
+#cards > .card[data-number="9"] {
   background-color: #2f454e;
 }
 
 @media only screen and (max-width: 650px) {
-  #cards > .card:nth-child(9) {
+  #cards > .card[data-number="9"] {
     background-color: #efefef;
     border-left: 5px solid #2f454e;
   }
